@@ -11,4 +11,4 @@
   + ii.	Pruebe el compilador con un programa hello.c que envie a stdout la lmea Hello, World! o similar.
   + iii.	Ejecute el programa y verifique que la salida es la esperada. 
   + iv.	Ejecute el programa con la salida redireccionada a un archivo output.txt; verifique su contenido.
-          - asassa
+              - asassa
